@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22060" started-at="2023-10-07T22:39:40Z" finished-at="2023-10-07T22:40:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22060" started-at="2023-10-07T22:39:40Z" finished-at="2023-10-07T22:40:02Z">
+      <class name="org.lloyds.LloydsLoginValidation">
+        <test-method status="PASS" signature="beforealltc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="beforealltc" is-config="true" duration-ms="2253" started-at="2023-10-07T23:39:40Z" finished-at="2023-10-07T23:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforealltc -->
+        <test-method status="PASS" signature="beforetc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="beforetc" is-config="true" duration-ms="1291" started-at="2023-10-07T23:39:42Z" finished-at="2023-10-07T23:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetc -->
+        <test-method status="PASS" signature="loginWithInvalidUserNameAndValidPassword()[pri:1, instance:org.lloyds.LloydsLoginValidation@73846619]" name="loginWithInvalidUserNameAndValidPassword" duration-ms="3922" started-at="2023-10-07T23:39:43Z" finished-at="2023-10-07T23:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidUserNameAndValidPassword -->
+        <test-method status="PASS" signature="aftertc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="aftertc" is-config="true" duration-ms="0" started-at="2023-10-07T23:39:47Z" finished-at="2023-10-07T23:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertc -->
+        <test-method status="PASS" signature="beforetc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="beforetc" is-config="true" duration-ms="334" started-at="2023-10-07T23:39:47Z" finished-at="2023-10-07T23:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetc -->
+        <test-method status="PASS" signature="loginwithValidUserNameAndInvalidPassword()[pri:2, instance:org.lloyds.LloydsLoginValidation@73846619]" name="loginwithValidUserNameAndInvalidPassword" duration-ms="745" started-at="2023-10-07T23:39:47Z" finished-at="2023-10-07T23:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidUserNameAndInvalidPassword -->
+        <test-method status="PASS" signature="aftertc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="aftertc" is-config="true" duration-ms="3" started-at="2023-10-07T23:39:48Z" finished-at="2023-10-07T23:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertc -->
+        <test-method status="PASS" signature="beforetc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="beforetc" is-config="true" duration-ms="348" started-at="2023-10-07T23:39:48Z" finished-at="2023-10-07T23:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetc -->
+        <test-method status="PASS" signature="forgotPassword()[pri:3, instance:org.lloyds.LloydsLoginValidation@73846619]" name="forgotPassword" duration-ms="1558" started-at="2023-10-07T23:39:49Z" finished-at="2023-10-07T23:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method status="PASS" signature="beforetc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="beforetc" is-config="true" duration-ms="394" started-at="2023-10-07T23:39:50Z" finished-at="2023-10-07T23:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetc -->
+        <test-method status="PASS" signature="aftertc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="aftertc" is-config="true" duration-ms="0" started-at="2023-10-07T23:39:50Z" finished-at="2023-10-07T23:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertc -->
+        <test-method status="PASS" signature="createAccount()[pri:4, instance:org.lloyds.LloydsLoginValidation@73846619]" name="createAccount" duration-ms="1448" started-at="2023-10-07T23:39:50Z" finished-at="2023-10-07T23:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="beforetc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="beforetc" is-config="true" duration-ms="412" started-at="2023-10-07T23:39:52Z" finished-at="2023-10-07T23:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetc -->
+        <test-method status="PASS" signature="aftertc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="aftertc" is-config="true" duration-ms="0" started-at="2023-10-07T23:39:52Z" finished-at="2023-10-07T23:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertc -->
+        <test-method status="PASS" signature="loginWithValidUserNameAndValidPassword()[pri:5, instance:org.lloyds.LloydsLoginValidation@73846619]" name="loginWithValidUserNameAndValidPassword" duration-ms="758" started-at="2023-10-07T23:39:52Z" finished-at="2023-10-07T23:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUserNameAndValidPassword -->
+        <test-method status="PASS" signature="afteralltc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="afteralltc" is-config="true" duration-ms="128" started-at="2023-10-07T23:39:53Z" finished-at="2023-10-07T23:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteralltc -->
+        <test-method status="PASS" signature="aftertc()[pri:0, instance:org.lloyds.LloydsLoginValidation@73846619]" name="aftertc" is-config="true" duration-ms="0" started-at="2023-10-07T23:39:53Z" finished-at="2023-10-07T23:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertc -->
+      </class> <!-- org.lloyds.LloydsLoginValidation -->
+      <class name="org.lloyds.LloydsProductSelection">
+        <test-method status="PASS" signature="beforealltc()[pri:0, instance:org.lloyds.LloydsProductSelection@4bec1f0c]" name="beforealltc" is-config="true" duration-ms="1051" started-at="2023-10-07T23:39:53Z" finished-at="2023-10-07T23:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforealltc -->
+        <test-method status="PASS" signature="beforetc()[pri:0, instance:org.lloyds.LloydsProductSelection@4bec1f0c]" name="beforetc" is-config="true" duration-ms="1337" started-at="2023-10-07T23:39:54Z" finished-at="2023-10-07T23:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetc -->
+        <test-method status="PASS" signature="productSelection()[pri:0, instance:org.lloyds.LloydsProductSelection@4bec1f0c]" name="productSelection" duration-ms="5942" started-at="2023-10-07T23:39:56Z" finished-at="2023-10-07T23:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSelection -->
+        <test-method status="PASS" signature="afteralltc()[pri:0, instance:org.lloyds.LloydsProductSelection@4bec1f0c]" name="afteralltc" is-config="true" duration-ms="107" started-at="2023-10-07T23:40:02Z" finished-at="2023-10-07T23:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteralltc -->
+        <test-method status="PASS" signature="aftertc()[pri:0, instance:org.lloyds.LloydsProductSelection@4bec1f0c]" name="aftertc" is-config="true" duration-ms="0" started-at="2023-10-07T23:40:02Z" finished-at="2023-10-07T23:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertc -->
+      </class> <!-- org.lloyds.LloydsProductSelection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
